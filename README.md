@@ -1,4 +1,4 @@
-# Servidor TindHub 
+# Servidor base para pruebas 
 
 Este servidor express se encuentra la conexión con la base de datos, los modelos y todas las rutas para realizar consultas y gestión de la información
 
